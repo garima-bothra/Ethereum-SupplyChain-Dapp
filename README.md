@@ -43,13 +43,13 @@ v1.0.0-beta.37
 ## Diagrams
 
 ### Activity Diagram
-![Activity Diagram]()
+![Activity Diagram](https://github.com/garima94921/Ethereum-SupplyChain-Dapp/blob/master/Images/Activity%20diagram.png)
 
 ### Sequence Diagram
-![Sequence Diagram]()
+![Sequence Diagram](https://github.com/garima94921/Ethereum-SupplyChain-Dapp/blob/master/Images/Sequence%20diagram.png)
 
 ### State Diagram
-![State Diagram]()
+![State Diagram](https://github.com/garima94921/Ethereum-SupplyChain-Dapp/blob/master/Images/state%20diagram.png)
 
 ### Class Diagram
-![Class Diagram]()
+![Class Diagram](https://github.com/garima94921/Ethereum-SupplyChain-Dapp/blob/master/Images/UML%20Class.png)
