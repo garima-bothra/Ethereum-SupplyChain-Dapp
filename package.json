@@ -1,7 +1,7 @@
 {
-  "name": "supply-chain-E",
+  "name": "supply-chain-e",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Overview This DAPP is for a decentralized approach for certifcation schemes, issuance and verification. Any party can become a Certifier and assign a suitable Authority that can delegate authority of certification",
   "main": "index.js",
   "scripts": {
     "dev": "lite-server",
@@ -12,5 +12,20 @@
   "license": "MIT",
   "devDependencies": {
     "lite-server": "2.4.0"
-  }
+  },
+  "dependencies": {
+    "truffle": "^5.1.33",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garima94921/Ethereum-SupplyChain-Dapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/garima94921/Ethereum-SupplyChain-Dapp/issues"
+  },
+  "homepage": "https://github.com/garima94921/Ethereum-SupplyChain-Dapp#readme"
 }
