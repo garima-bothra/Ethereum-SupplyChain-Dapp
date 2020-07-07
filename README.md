@@ -11,10 +11,10 @@ https://rinkeby.etherscan.io/tx/0xa9243fc0d29fecc43ab50b02a3fb17fac58a94fd069867
 ## The contract addresses of this dapp
 
 |FarmerRole| 0xf17f52151EbEF6C7334FAD080c5704D77216b732|
-|DistributorRole|0xC5fdf4076b8F3A5357c5E395ab970B5B54098Fef|
-|RetailerRole|0x821aEa9a577a9b44299B9c15c88cf3087F3b5544|
-|ConsumerRole|0x0d1d4e623D10F9FBA5Db95830F7d3839406C6AF2|
-|Contract Owner|0x627306090abaB3A6e1400e9345bC60c78a8BEf57|
+|DistributorRole| 0xC5fdf4076b8F3A5357c5E395ab970B5B54098Fef|
+|RetailerRole| 0x821aEa9a577a9b44299B9c15c88cf3087F3b5544|
+|ConsumerRole| 0x0d1d4e623D10F9FBA5Db95830F7d3839406C6AF2|
+|Contract Owner| 0x627306090abaB3A6e1400e9345bC60c78a8BEf57|
 
 ## Getting Started
 
@@ -59,11 +59,12 @@ truffle develop
 ```
 to open the truffle console.
 Compile the smart contract using 
-```compile
 ```
-command.
+compile
+```
 Run 
-```truffle migrate --reset --network rinkeby
+```
+truffle migrate --reset --network rinkeby
 ```
 to deploy your smart contract to rinkeby test network.
 
