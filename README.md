@@ -6,7 +6,7 @@ Any party can become a Certifier and assign a suitable Authority that can delega
 
 ## Deployment Details
 
-https://rinkeby.etherscan.io/address/0xdb37c94cc3f4b3409b76a83af2462a4fa8b2835e
+https://rinkeby.etherscan.io/tx/0xa9243fc0d29fecc43ab50b02a3fb17fac58a94fd069867a71bac4f96f2cbc0f1
 
 ## The contract addresses of this dapp
 
@@ -24,9 +24,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
 
-```
-Give examples (to be clarified)
-```
 
 ### Installing
 
@@ -52,6 +49,24 @@ In a separate terminal window, launch the DApp:
 ```
 npm run dev
 ```
+## Deployment:
+
+To deploy the smart contract to the rinkeby test network below steps were followed -
+
+
+```
+truffle develop 
+```
+to open the truffle console.
+Compile the smart contract using 
+```compile
+```
+command.
+Run 
+```truffle migrate --reset --network rinkeby
+```
+to deploy your smart contract to rinkeby test network.
+
 ## Images:
 
 ### Activity Diagram
