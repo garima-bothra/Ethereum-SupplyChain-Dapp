@@ -28,19 +28,17 @@ Please make sure you've already installed ganache-cli, Truffle and enabled MetaM
 ### Installing
 
 ```
-cd project-6
 npm install
 ```
 ```
 ganache-cli -m "spirit supply whale amount human item harsh scare congress discover talent hamster"
+```
+
+In a separate terminal window, test the DApp:
+
+```
 truffle compile
-```
-
-```
 truffle migrate
-```
-
-```
 truffle test
 ```
 
@@ -93,6 +91,8 @@ to make the web faster, safer, and more open.
 
 ## Authors
 
+[Garima Bothra] (https://github.com/garima94921)
+
 See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
 
 ## Acknowledgments
@@ -101,4 +101,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * Ganache-cli
 * Truffle
 * IPFS
-* Template code and ReadMe from Udacity
+* Template code from Udacity
