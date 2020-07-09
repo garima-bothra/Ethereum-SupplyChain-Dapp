@@ -51,20 +51,19 @@ npm run dev
 
 To deploy the smart contract to the rinkeby test network below steps were followed -
 
+After running tests: 
 
 ```
 truffle develop 
 ```
+
 to open the truffle console.
-Compile the smart contract using 
+Compile and deploy the smart contract using:
+
 ```
 compile
-```
-Run 
-```
 truffle migrate --reset --network rinkeby
 ```
-to deploy your smart contract to rinkeby test network.
 
 ## Images:
 
